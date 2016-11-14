@@ -10,7 +10,7 @@
 app:
   name: Mão na Carga # REQUIRED - Enter your app name
   ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  android_id: com.example.app # Optional - Enter Android app id like: com.example.app
 
   icon: images/logo.jpg
   # Leave blank to auto-magically populate
